@@ -3,4 +3,4 @@
 + Created multiple tables within phpMyAdmin and connected that to my website with PHP
 + Created a signup page, login and logout system, a small personalized dashboard containing data within the database, and a way for clients to update their email and password
 
-![](Page1LoogedOut)
+![](Page1LoogedOut.png)
